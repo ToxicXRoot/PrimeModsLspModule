@@ -6,7 +6,10 @@
       "versionCode": 1,
       "versionName": "1.0",
       "description": "Enhance your Free Fire gameplay with advanced features and optimizations using LSPosed. This premium module offers exclusive tweaks, performance boosts, and customization options to improve your gaming experience.",
-      "downloadUrl": "https://github.com/ToxicXRoot/PrimeModsLspModule/releases/download/v1.0/YourAPKName.apk"
+      "downloadUrl": "https://github.com/ToxicXRoot/PrimeModsLspModule/releases/download/PrimeMods-v1.0/PrimeModsFF.apk",
+      "changelog": "Initial release with performance optimizations and gameplay enhancements.",
+      "minApi": 27,
+      "targetApi": 34
     }
   ]
 }
